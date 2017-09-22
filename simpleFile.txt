@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 First Commit
 Second Commit
 Third Commit
+=======
+First Commit
+>>>>>>> parent of fa67a8d... Second Commit
